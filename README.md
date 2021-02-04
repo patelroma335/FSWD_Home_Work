@@ -3,6 +3,7 @@
 ## ClassNotes
 
 Functions in Javascript are object
+
 JS - Everything is object ---- Properties and Methods
 
 ## 4 Pillars of Javascript
